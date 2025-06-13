@@ -26,3 +26,7 @@
     Continuous learning is vital in this dynamic field.
 
 Git basic commands CheatSheat: https://www.theodinproject.com/lessons/foundations-git-basics
+
+# HTML vs CSS vs JS:
+
+    HTML, CSS, and JavaScript are the three foundational coding languages for web development. HTML (Hypertext Markup Language) establishes the structure and content of a webpage, acting as its building blocks. CSS (Cascading Style Sheets) focuses on styling, determining the visual look, feel, layout, and responsive features of the HTML document. JavaScript is a robust language that adds interactivity to a website by enabling changes to HTML and CSS elements after the site loads, powering features like animations and interactive menus. Knowing these languages provides greater control over your website's appearance, functionality, and helps in diagnosing issues. Free resources like Codecademy are available for learning them.
