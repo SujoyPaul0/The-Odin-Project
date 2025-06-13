@@ -16,3 +16,13 @@
         Responsive web design to adapt to varying screen sizes.
     Maintaining quality of code through standards and validation.
     Websites are either static (unique files) or dynamic (server-generated, often database-driven). Primary occupations are web designer (visuals) and web developer. AI models like Chat GPT are increasingly used for faster creation.
+
+# Web Development Summary:
+
+    Front-end developers build the user interface using HTML, CSS, JS, and frameworks like ReactJS and Bootstrap. They ensure visual appeal and usability. Back-end developers manage the server, database, and application logic using Node.js, PHP, Python, and databases like MySQL or MongoDB. They handle data security, scalability, and APIs. Full stack developers work across both ends, mastering front-end and back-end skills, plus CMS tools (WordPress). Full stack offers flexibility but requires broad expertise.
+    Salaries (US avg.): Front-end: ~$96K; Back-end: ~$164K; Full stack: ~$137K.
+    Job outlook: ~16-17% growth (2022-2032).
+    Soft skills: Problem-solving, adaptability, communication are key.
+    Continuous learning is vital in this dynamic field.
+
+Git basic commands CheatSheat: https://www.theodinproject.com/lessons/foundations-git-basics
