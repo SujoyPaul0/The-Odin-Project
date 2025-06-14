@@ -36,3 +36,33 @@ Git basic commands CheatSheat: https://www.theodinproject.com/lessons/foundation
     HTML defines a webpage's structure and content, requiring explicit coding rather than menus found in word processors. You tell the browser what everything is using "elements," which are comprised of opening and closing "tags" (e.g., `<p>` and `</p>`). Content is placed between these tags, and line breaks or extra spaces in code are meaningless without explicit tags.
 
     HTML employs predefined, "semantic" elements, meaning their names convey their purpose (e.g., `<h1>` for heading, `<footer>` for footer). Using correct semantic HTML is crucial for web accessibility, enabling users with screen readers, keyboards, or other navigation methods to interact effectively with the site. It's best to learn essential, frequently used elements rather than attempting to memorize all existing tags.
+
+# Commit Message - Best way to write them
+
+    Summarize changes in around 50 characters or less
+
+    More detailed explanatory text, if necessary. Wrap it to about 72
+    characters or so. In some contexts, the first line is treated as the
+    subject of the commit and the rest of the text as the body. The
+    blank line separating the summary from the body is critical (unless
+    you omit the body entirely); various tools like `log`, `shortlog`
+    and `rebase` can get confused if you run the two together.
+
+    Explain the problem that this commit is solving. Focus on why you
+    are making this change as opposed to how (the code explains that).
+    Are there side effects or other unintuitive consequences of this
+    change? Here's the place to explain them.
+
+    Further paragraphs come after blank lines.
+
+    - Bullet points are okay, too
+
+    - Typically a hyphen or asterisk is used for the bullet, preceded
+    by a single space, with blank lines in between, but conventions
+    vary here
+
+    If you use an issue tracker, put references to them at the bottom,
+    like this:
+
+    Resolves: #123
+    See also: #456, #789
